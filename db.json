@@ -22,7 +22,7 @@
       "time": "10:00",
       "image": "jozsef-szabo-RwhAqEwycaU-unsplash.jpg",
       "profile": "https://unsplash.com/@nil_foto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
-      "photographer": "József Szabó"
+      "photographer": "J%C3%B3zsef%20Szab%C3%B3"
     },
     {
       "id": 3,
@@ -191,6 +191,6 @@
       "image": "hans-isaacson-nAwxD6eArhU-unsplash.jpg",
       "profile": "https://unsplash.com/@hans_isaacson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
       "photographer": "Hans Isaacson"
-    },
+    }
   ]
 }
