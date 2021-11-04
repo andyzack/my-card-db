@@ -1,34 +1,196 @@
 {
   "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
+      "id": 1,
+      "category": "Nature",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "date": "January 28, 2022",
       "time": "12:00",
-      "organizer": "Kat Laydee"
+      "image": "arthur-ogleznev-SVJyRaIdekI-unsplash.jpg",
+      "profile": "https://unsplash.com/@obviouslyarthur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Arthur Ogleznev"
     },
     {
-      "id": 456,
-      "category": "food",
+      "id": 2,
+      "category": "Nature",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
       "date": "March 14, 2022",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "image": "jozsef-szabo-RwhAqEwycaU-unsplash.jpg",
+      "profile": "https://unsplash.com/@nil_foto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "József Szabó"
     },
     {
-      "id": 789,
-      "category": "sustainability",
+      "id": 3,
+      "category": "Nature",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"
-    }
+      "image": "dipanjan-pal-CbXmfl2t_SQ-unsplash.jpg",
+      "profile": "https://unsplash.com/@dipanjanpalphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Dipanjan Pal"
+    },
+    {
+      "id": 4,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "maksym-tymchyk-Zyu-hKPsiPA-unsplash.jpg",
+      "profile": "https://unsplash.com/@maksym_tymchyk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Maksym Tymchyk"
+    },
+    {
+      "id": 5,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "michael-martinelli-qlMOSB4oFBs-unsplash.jpg",
+      "profile": "https://unsplash.com/@michaelmartinelli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Michael Martinelli"
+    },
+    {
+      "id": 6,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "fabrice-villard-wUgfbg8CGrg-unsplash.jpg",
+      "profile": "https://unsplash.com/@fabulu75?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Fabrice Villard"
+    },
+    {
+      "id": 7,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "pascal-m-gRyJt9G-TfA-unsplash.jpg",
+      "profile": "https://unsplash.com/@toastyraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Pascal M."
+    },
+    {
+      "id": 8,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "victor-grabarczyk-cRdTFhalxhA-unsplash.jpg",
+      "profile": "https://unsplash.com/@victor_vector?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Victor Grabarczyk"
+    },
+    {
+      "id": 9,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "cafer-mert-ceyhan-Nsq0Ty_qlj4-unsplash.jpg",
+      "profile": "https://unsplash.com/@mertceyhan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Cafer Mert Ceyhan"
+    },
+    {
+      "id": 10,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "connor-home-7Qpp39GHY3w-unsplash.jpg",
+      "profile": "https://unsplash.com/@connorhome?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Connor Home"
+    },
+    {
+      "id": 11,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "michal-janek-sDHOgC4aOIY-unsplash.jpg",
+      "profile": "https://unsplash.com/@michaljaneck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Michal Janek"
+    },
+    {
+      "id": 12,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "thomas-evans-NVXY8_M1n40-unsplash.jpg",
+      "profile": "https://unsplash.com/@thoeva?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Thomas Evans"
+    },
+    {
+      "id": 13,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "intricate-explorer-_xzx1XZ1taI-unsplash.jpg",
+      "profile": "https://unsplash.com/@intricateexplorer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Intricate Explorer"
+    },
+    {
+      "id": 14,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "birger-strahl-C54OKB99iuw-unsplash.jpg",
+      "profile": "https://unsplash.com/@bist31?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Birger Strahl"
+    },
+    {
+      "id": 15,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "hans-isaacson-gWsvWQaYexo-unsplash.jpg",
+      "profile": "https://unsplash.com/@hans_isaacson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Hans Isaacson"
+    },
+    {
+      "id": 16,
+      "category": "Nature",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "image": "hans-isaacson-nAwxD6eArhU-unsplash.jpg",
+      "profile": "https://unsplash.com/@hans_isaacson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "photographer": "Hans Isaacson"
+    },
   ]
 }
