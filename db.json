@@ -1,10 +1,10 @@
 {
-  "events": [
+  "photos": [
     {
       "id": 1,
       "category": "Nature",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
+      "title": "The glory of green",
+      "description": "Green is the quintessential colour of nature - of parks, gardens and forests, and a reminder of the life-giving power of plants.",
       "location": "Meow Town",
       "date": "January 28, 2022",
       "time": "12:00",
@@ -15,8 +15,8 @@
     {
       "id": 2,
       "category": "Nature",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
+      "title": "Honey bee",
+      "description": "A eusocial flying insect within the genus Apis of the bee clade, all native to Eurasia.",
       "location": "Flora City",
       "date": "March 14, 2022",
       "time": "10:00",
@@ -39,8 +39,8 @@
     {
       "id": 4,
       "category": "Nature",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
+      "title": "Mesmerising Owl",
+      "description": "Mesmerising owl description",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
